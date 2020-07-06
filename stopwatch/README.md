@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To get the frontend running locally:
 
 Clone this repo:
-npm install to install all required dependencies
-npm start to start the local server (this project uses create-react-app)## Available Scripts
+### npm install to install all required dependencies
+### npm start to start the local server (this project uses create-react-app)## Available Scripts
 
 In the project directory, you can run:
 
