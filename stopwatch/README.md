@@ -1,3 +1,6 @@
+###DEMO OF THE APP:
+https://user-images.githubusercontent.com/3372372/86607084-d6dbda00-bf76-11ea-9251-7de2c0926b21.gif
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To get the frontend running locally:
